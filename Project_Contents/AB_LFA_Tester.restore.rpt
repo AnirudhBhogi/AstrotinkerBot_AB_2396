@@ -1,0 +1,106 @@
+Restore Archived Project report for AB_LFA_Tester
+Tue Feb 27 08:10:46 2024
+Quartus Prime Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2020  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Tue Feb 27 08:10:46 2024 ;
+; Revision Name                   ; AB_LFA_Tester                         ;
+; Top-level Entity Name           ; AB_LFA_Tester                         ;
+; Family                          ; Cyclone IV E                          ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'D:/AT_23-24/Task_5/AB_WITH_RISCV_tmp_archive.qar' into the 'D:/AT_23-24/Task_6_final/' directory
+Info: Generated report 'AB_LFA_Tester.restore.rpt'
+
+
++--------------------------------------+
+; Files Restored                       ;
++--------------------------------------+
+; File Name                            ;
++--------------------------------------+
+; qar_info.json                        ;
+; AB_LFA_Tester.bdf                    ;
+; AB_LFA_Tester.qsf                    ;
+; AB_WITH_RISCV.qpf                    ;
+; assignment_defaults.qdf              ;
+; db/stp1_auto_stripped.stp            ;
+; stp1.stp                             ;
+; verilog_codes/ADC_controller.v       ;
+; verilog_codes/Black_Line_Following.v ;
+; verilog_codes/Fault_Identification.v ;
+; verilog_codes/Frequency_Scaling.v    ;
+; verilog_codes/adder.v                ;
+; verilog_codes/alu.v                  ;
+; verilog_codes/alu_decoder.v          ;
+; verilog_codes/controller.v           ;
+; verilog_codes/cpu_controller.v       ;
+; verilog_codes/d_ff.v                 ;
+; verilog_codes/data_mem.v             ;
+; verilog_codes/datapath.v             ;
+; verilog_codes/imm_extend.v           ;
+; verilog_codes/instr_mem.v            ;
+; verilog_codes/led_controller.v       ;
+; verilog_codes/load_extend.v          ;
+; verilog_codes/main_decoder.v         ;
+; verilog_codes/mux2.v                 ;
+; verilog_codes/mux3.v                 ;
+; verilog_codes/mux4.v                 ;
+; verilog_codes/node_info.v            ;
+; verilog_codes/priority.v             ;
+; verilog_codes/pwm_generator.v        ;
+; verilog_codes/reg_file.v             ;
+; verilog_codes/reset_ff.v             ;
+; verilog_codes/riscv_cpu.v            ;
+; verilog_codes/sign_extend.v          ;
+; verilog_codes/store_extend.v         ;
+; verilog_codes/t2b_riscv_cpu.v        ;
+; verilog_codes/uart_rx.v              ;
+; verilog_codes/uart_tx.v              ;
++--------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+

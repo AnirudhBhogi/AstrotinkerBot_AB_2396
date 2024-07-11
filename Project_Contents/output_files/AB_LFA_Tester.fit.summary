@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue Feb 27 19:17:40 2024
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : AB_LFA_Tester
+Top-level Entity Name : AB_LFA_Tester
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 16,664 / 22,320 ( 75 % )
+    Total combinational functions : 9,646 / 22,320 ( 43 % )
+    Dedicated logic registers : 12,017 / 22,320 ( 54 % )
+Total registers : 12017
+Total pins : 26 / 154 ( 17 % )
+Total virtual pins : 0
+Total memory bits : 79,872 / 608,256 ( 13 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

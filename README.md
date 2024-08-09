@@ -1,5 +1,5 @@
 # AstrotinkerBot_AB_2396
-he robot's brain is powered by an FPGA that reads and processes the sensor data and controls the actuators. This project includes building the robot from scratch using an FPGA, implementing single-cycle RISC-V CPU design, and creating a hardware-software co-design using Verilog HDL to unveil the powerful parallel processing capabilities of FPGAs.
+The robot's brain is powered by an FPGA that reads and processes the sensor data and controls the actuators. This project includes building the robot from scratch using an FPGA, implementing single-cycle RISC-V CPU design, and creating a hardware-software co-design using Verilog HDL to unveil the powerful parallel processing capabilities of FPGAs.
 
 In a future not too distant, the boundaries of human exploration will extend far beyond our home planet. Space exploration and colonization have become remarkable feats of human achievement, with space stations serving as the key outposts for these endeavors. So, regular check-ups, system upgrades, and troubleshooting have become paramount to maintaining the delicate balance between human survival and scientific progress.
 
